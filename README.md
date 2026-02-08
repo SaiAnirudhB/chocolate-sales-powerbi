@@ -129,4 +129,51 @@ All DAX logic is documented in **DAX_Measures.md**.
 - Certain countries and salespeople consistently outperform others
 - Moving average analysis highlights long-term sales trends
 ## 📁 Repository Structure
+chocolate-sales-powerbi/
+│
+├── README.md
+├── DAX_Measures.md
+├── LICENSE
+│
+├── dashboard/
+│ ├── Chocolate_Sales_Dashboard.pbix
+│ └── Chocolate_Sales_Dashboard.pdf
+│
+├── data/
+│ └── chocolate_sales.csv
+│
+└── screenshots/
+└── dashboard and model screenshots
 
+
+---
+
+## 🚀 How to Use This Project
+1. Download the `.pbix` file from the dashboard folder  
+2. Open it in **Power BI Desktop**  
+3. Explore visuals using slicers  
+4. Review DAX logic in `DAX_Measures.md`  
+5. Inspect transformations in Power Query  
+
+---
+
+## 🎯 Skills Demonstrated
+- Power BI dashboard development  
+- Data cleaning & transformation  
+- Data modeling (star schema)  
+- DAX & time intelligence  
+- Business storytelling with data  
+- GitHub project documentation  
+
+---
+
+## 👤 Author
+**Sai Anirudh Boorla**  
+Aspiring Data Analyst | Power BI | SQL | Data Analytics  
+
+This project is part of my **data analytics portfolio**.
+
+---
+
+## ⭐ Feedback
+If you find this project useful, feel free to ⭐ star the repository.
